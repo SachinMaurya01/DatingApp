@@ -1,0 +1,93 @@
+[
+  {
+    "id": 0,
+    "name": "Karl",
+    "desc": "Developer",
+    "age": 26,
+    "image": "1.jpg",
+    "location":"Bengaluru",
+    "gender":"Male",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 1,
+    "name": "Martin",
+    "desc": "Prisoner at Federal Correctional Institution",
+    "age": 35,
+    "gender":"Male",
+    "image": "2.jpg",
+    "location":"Delhi",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 2,
+    "name": "Emily",
+    "desc": "Actress",
+    "age": 35,
+    "gender":"Female",
+    "location":"Gurgaon",
+    "image": "3.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 3,
+    "name": "Michael",
+    "desc": "Manager",
+    "age": 45,
+    "gender":"Male",
+    "image": "4.jpg",
+    "location":"Mumbai",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 4,
+    "name": "Dwight",
+    "desc": "Sales",
+    "age": 40,
+    "gender":"Female",
+    "image": "5.jpg",
+    "location":"Hyderabad",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 5,
+    "name": "Jessica",
+    "desc": "Actress",
+    "age": 37,
+    "gender":"Female",
+    "image": "6.jpg",
+    "location":"Bangalore",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 6,
+    "name": "Alexandra",
+    "desc": "Actress",
+    "age": 32,
+    "gender":"Female",
+    "image": "7.jpg",
+    "location":"Punjab",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  }
+]
